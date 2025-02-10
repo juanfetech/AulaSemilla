@@ -33,6 +33,10 @@ No se requieren conocimientos previos de programación, aunque es recomendable t
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms (3rd ed.): https://github.com/aliaamohamedali/Algorithms/blob/master/introduction-to-algorithms-3rd-edition.pdf
 - Scott, M. L. (2016). Programming Language Pragmatics (4th ed.). Morgan Kaufmann: https://booksite.elsevier.com/9780124104099/
 - Sipser, M. (2012). Introduction to the Theory of Computation (3rd ed.). Cengage Learning: https://mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf
+- Elias Largo. (2023). Cómo instalar Eclipse IDE. [Video]. YouTube. https://www.youtube.com/watch?v=m8x9MTiZtRU
+- Evolución Virtual. (n.d.). Compilar y ejecutar aplicaciones Java con Visual Studio Code [Video]. YouTube. https://www.youtube.com/watch?v=1EHJSjkzbG0&t=43s
+
+
   
 
 ¡Prepárate para dar tus primeros pasos en el mundo del desarrollo con Java! 🚀
